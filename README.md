@@ -1,6 +1,8 @@
-<div style="display:center;"> EXAMPLE OF PYTHON SCRIPTS </div>
 
-<div style="display:center;"> The repo contains python scripts code </div> 
+
+
+<div align="center"><h1> EXAMPLE OF PYTHON SCRIPTS </h1> </div>
+<div align="center"> The repo contains python scripts code </div>
 
 
 **About**
